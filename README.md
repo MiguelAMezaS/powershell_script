@@ -13,3 +13,11 @@ Script Features:
 -Data Export: Finally, users can choose to export rule information to a CSV file, making it easier to document and analyze firewall configurations.
 
 ![reglasfw](https://github.com/user-attachments/assets/0ec5a6fb-2faa-4687-88c6-b83407b9daa8)
+
+![rgfw2](https://github.com/user-attachments/assets/ea090c1f-19dd-4e16-870b-2c768d027d9f)
+
+![rgfw3](https://github.com/user-attachments/assets/aac68a7d-5d2a-471d-b8c1-a427dc4ce7d2)
+
+![rgfw4](https://github.com/user-attachments/assets/dde10cf0-32c2-4fc4-8551-9e70c5e1959b)
+
+
