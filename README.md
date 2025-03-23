@@ -11,3 +11,5 @@ Script Features:
 -User Interaction: If no rules are enabled, the script informs the user. Otherwise, it displays a table with details such as name, address, action, display name and description of each rule. This allows administrators to quickly review the firewall configuration.
 -Disabling Rules: The script provides the option to disable any specific rule, allowing users to manage their firewall more effectively and adapt to changes in security policies.
 -Data Export: Finally, users can choose to export rule information to a CSV file, making it easier to document and analyze firewall configurations.
+
+![reglasfw](https://github.com/user-attachments/assets/0ec5a6fb-2faa-4687-88c6-b83407b9daa8)
